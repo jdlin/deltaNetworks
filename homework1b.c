@@ -3,11 +3,11 @@
  *  Application:     CSE768 --- Simulation for Delta Networks              *
  *  Language:        C Language                                            *
  *  Compiler:        (1) Borland C++ 3.1                                   *
- *                       BCC -ml -G delta.c                                *
+ *                       BCC -ml -G homework1b.c                           *
  *                   (2) Unix C                                            *
- *                       cc -DUNIX delta.c -lm                             *
+ *                       cc -DUNIX homework1b.c -lm                        *
  *                       or                                                *
- *                       gcc -DUNIX delta.c -lm                            *
+ *                       gcc -DUNIX homework1b.c -lm                       *
  *  Platform:        (1) i386, DOS 5.0                                     *
  *                   (2) Sun Sparc, UNIX V                                 *
  *                                                                         *
