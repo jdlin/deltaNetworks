@@ -3,7 +3,7 @@
  *  Application:     CSE768 -- Simulation for Multibuffered Delta Networks *
  *  Language:        C Language                                            *
  *  Compiler:        (1) Borland C++ 3.1                                   *
- *                       BCC -ml -G delta.c                                *
+ *                       BCC -ml -G homework2d.c                           *
  *                   (2) Unix C                                            *
  *                       cc -DUNIX homework2d.c -lm                        *
  *                       or                                                *
@@ -11,7 +11,7 @@
  *  Platform:        (1) i386, DOS 5.0                                     *
  *                   (2) Sun Sparc, UNIX V                                 *
  *                                                                         *
- *  Author:          Jordon   Lin                                          *
+ *  Author:          Jordon Lin                                            *
  *  Date:            Mar. 20, 1993                                         *
  *                                                                         *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
