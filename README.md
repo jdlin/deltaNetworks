@@ -1,7 +1,7 @@
-#delta networks
+delta networks
 ====
-- 1. Simulation for Delta Networks
-- 2. Simulation for Multibuffered Delta Networks
+1. Simulation for Delta Networks
+2. Simulation for Multibuffered Delta Networks
 
 References:
 
